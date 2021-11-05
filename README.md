@@ -1,6 +1,6 @@
-## Hey 👋, I'm Morgan Gardner  
-  
 
+## Hey 👋, I'm Morgan Gardner
+  
 <a href="https://github.com/MorGuux" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
@@ -19,7 +19,6 @@
 <a href="https://stackoverflow.com/users/9343338/morguux" target="_blank">
 <img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
 </a>  
-  
 
 
 
@@ -39,6 +38,14 @@ I have strong interests in engineering, automotive and motorsport industries, em
 
 <br/>  
 
+<a href="https://github.com/MorGuux">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MorGuux&show_icons=true&count_private=true&theme=github_dark&hide_border=true" />
+</a>
+<a href="https://github.com/MorGuux">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MorGuux&theme=github_dark&hide_border=true" />
+</a>
+
+<br/>  
 
 ## Languages and Tools  
 <div align="center">  
@@ -65,15 +72,3 @@ I have strong interests in engineering, automotive and motorsport industries, em
 </div>  
 
 <br/>  
-
-
-## GitHub Stats
-<table><tr><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api?username=MorGuux&show_icons=true&count_private=true&hide_border=true&theme=github_dark&include_all_commits=true" align="left" style="width: 100%" />
-
-</td><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MorGuux&hide_border=true&layout=compact&theme=github_dark" align="left" style="width: 100%" />
-
-</td></tr></table>  
