@@ -18,7 +18,7 @@
 </a>
 <a href="https://stackoverflow.com/users/9343338/morguux" target="_blank">
 <img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
-</a>  
+</a>
 
 
 
@@ -72,3 +72,5 @@ I have strong interests in engineering, automotive and motorsport industries, em
 </div>  
 
 <br/>  
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=morguux&label=Profile%20views&color=0e75b6&style=flat" alt="morguux" /> </p>
