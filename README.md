@@ -28,10 +28,10 @@ I have strong interests in engineering, automotive and motorsport industries, em
   
 <br/>  
 
-- 🕹️  I’m currently working on a Rats! (1996) clone for a group university project in Java.  
+- 🕹️ I’m currently studying in my second year of Software Engineering at Swansea University
   
 
-- ⌨️ I’m currently learning Haskell and Prolog.  
+- ⌨️ I’m currently learning Java. 
   
 
 - 👍 I'm currently contributing to open-source projects.  
