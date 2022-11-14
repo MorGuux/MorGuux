@@ -28,7 +28,7 @@ I have strong interests in engineering, automotive and motorsport industries, em
   
 <br/>  
 
-- 🕹️ I’m currently studying in my second year of Software Engineering at Swansea University
+- 🕹️ I’m currently studying in my final year of Software Engineering at Swansea University
   
 
 - ⌨️ I’m currently learning Java. 
