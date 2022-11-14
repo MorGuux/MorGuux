@@ -24,7 +24,7 @@
 
 ### A little bit about me  
 I’m an aspiring software developer studying BSc (Hons) Software Engineering at Swansea University in the U.K.
-I have strong interests in engineering, automotive and motorsport industries, embedded systems and software development. I enjoy tinkering with microcontrollers like Arduinos and creating firmware, 3D modelling (using Autodesk Fusion 360) and 3D printing, learning about vehicle systems and diagnostics (CAN networks, ECU systems etc.) and more. I've mainly used C# WPF to create projects, but I've used C++, Java, Haskell and Prolog.  
+I have strong interests in engineering, automotive and motorsport industries, embedded systems and software development. I enjoy tinkering with microcontrollers like Arduinos and creating firmware, 3D modelling (using Autodesk Fusion 360) and 3D printing, learning about vehicle systems and diagnostics (CAN networks, ECU systems etc.) and more. I've mainly used C# WPF to create projects, but I've used C++, Java and Kotlin.  
   
 <br/>  
 
