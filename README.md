@@ -28,7 +28,7 @@ I have strong interests in engineering, automotive and motorsport industries, em
   
 <br/>  
 
-- 🕹️ I’m currently studying in my final year of Software Engineering at Swansea University
+- ⚙️ I’m currently working as a Graduate Manufacturing Software Engineer at Renishaw Engineering.
   
 
 - ⌨️ I’m currently learning Java. 
@@ -37,7 +37,7 @@ I have strong interests in engineering, automotive and motorsport industries, em
 - 👍 I'm currently contributing to open-source projects.  
 
 
-- I'm currently working on a C# library ([OpenFFBSharp](https://github.com/MorGuux/OpenFFBSharp)) for the OpenFFBoard.
+- 🕹️ I'm currently working on a C# library ([OpenFFBSharp](https://github.com/MorGuux/OpenFFBSharp)) for the OpenFFBoard.
 
 <br/>  
 
