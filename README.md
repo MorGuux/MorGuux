@@ -23,21 +23,20 @@
 
 
 ### A little bit about me  
-I’m an aspiring software developer studying BSc (Hons) Software Engineering at Swansea University in the U.K.
-I have strong interests in engineering, automotive and motorsport industries, embedded systems and software development. I enjoy tinkering with microcontrollers like Arduinos and creating firmware, 3D modelling (using Autodesk Fusion 360) and 3D printing, learning about vehicle systems and diagnostics (CAN networks, ECU systems etc.) and more. I've mainly used C# WPF to create projects, but I've used C++, Java and Kotlin.  
+I am an aspiring software developer with a BSc (Hons) in Software Engineering from Swansea University. I have a strong passion for the engineering, automotive, and motorsport industries. During my youth, I developed hands-on experience with microcontrollers such as Arduino, creating firmware, 3D modelling with Autodesk Fusion 360, and exploring vehicle systems and diagnostics, including CAN networks and ECU systems. I have gained proficiency in C#, Java, Kotlin, LabVIEW and C++.
   
 <br/>  
 
-- ⚙️ I’m currently working as a Graduate Manufacturing Software Engineer at Renishaw Engineering.
+- ⚙️ I work as a Graduate Manufacturing Software Engineer at Renishaw Engineering.
   
 
-- ⌨️ I’m currently learning Java. 
+- ⌨️ I’m currently honing my C# WPF skills. 
   
 
 - 👍 I'm currently contributing to open-source projects.  
 
 
-- 🕹️ I'm currently working on a C# library ([OpenFFBSharp](https://github.com/MorGuux/OpenFFBSharp)) for the OpenFFBoard.
+- 🕹️ I'm currently working on Sim-Lab's RaceDirector software.
 
 <br/>  
 
