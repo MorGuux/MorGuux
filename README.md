@@ -27,7 +27,7 @@ I am an aspiring software developer with a BSc (Hons) in Software Engineering fr
   
 <br/>  
 
-- ⚙️ I work as a Graduate Manufacturing Software Engineer at Renishaw Engineering.
+- ⚙️ I work as a Process Development Engineer at Renishaw Engineering.
   
 
 - ⌨️ I’m currently honing my C# WPF skills. 
@@ -36,7 +36,7 @@ I am an aspiring software developer with a BSc (Hons) in Software Engineering fr
 - 👍 I'm currently contributing to open-source projects.  
 
 
-- 🕹️ I'm currently working on Sim-Lab's RaceDirector software.
+- 🕹️ I'm currently working on the Zenith and OpenFFBoard SimHub plugins.
 
 <br/>  
 
